@@ -45,6 +45,14 @@ margin-top: 20%;
 margin-left: 20%;
 }
 
+h1{
+text-align: center;
+}
+
+input{
+margin-right: 80%;
+}
+
 .footer{
 bottom: 0;
 position: fixed;
