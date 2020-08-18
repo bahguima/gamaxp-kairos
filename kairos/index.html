@@ -71,17 +71,22 @@ data-toggle="collapse" data-target="#barra-navegacao">
 <!-- CAMPO NOME -->
 <div class="form-group">
 <div class="col-sm-10">
-<input type="text" class="form-control" id="nome" name="nome" placeholder="Nome" required>
+<input type="text" class="form-control" pattern="^\D{2,}\s[\D\s]{2,}$"  id="leads.name" name="name" placeholder="Nome" required>
 </div>
 </div>
 
 <!-- CAMPO E-MAIL -->
 <div class="form-group">
 <div class="col-sm-10">
-<input type="email" class="form-control" id="email" name="email" placeholder="E-mail" required.  >
+<input type="email" class="form-control"  name="email" placeholder="E-mail" required.  >
 </div>
 </div>
     
+<input name="redirectTo" type="hidden" value= "agradecimento.html"/>
+<input name="debugMode" type="hidden" value="true" />
+
+
+
 <!-- BOTÃO ENVIAR -->
 <div class="form-group">
 <div class="col-sm-offset-2 col-sm-10">
