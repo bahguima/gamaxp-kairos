@@ -1,0 +1,67 @@
+
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-icon {
+    width: 30%;
+    padding: 1.5em;
+}
+  
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10em;
+
+}
+
+.textothanks {
+    
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 35px;
+    text-align: center;
+    /* identical to box height, or 97% */
+    
+    letter-spacing: 0.05em;
+    
+    color: #000000;
+    
+
+}
+
+.textothanks2{
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+/* or 146% */
+
+letter-spacing: 0.05em;
+
+color: #686767;
+}
+
+.btnebook{
+   
+width: 325.73px;
+height: 64.58px;
+
+
+background: linear-gradient(90deg, #0481BA 13.78%, rgba(4, 129, 186, 0) 157.52%);
+border-radius: 15.6757px;
+
+}
+
