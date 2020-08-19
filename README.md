@@ -1,5 +1,7 @@
 # GamaXP-Kairos
-Repositório destinado ao projeto realizado durante a Gama XP 35
+Repositório destinado ao projeto realizado durante a Gama XP 35.
+
+Link: https://kairosdgt.netlify.app/
 
 <h1>Desktop:<h1>
 <p align="center">
