@@ -1,4 +1,4 @@
-# GamaXP-Kair-s
+# GamaXP-Kairos
 Repositório destinado ao projeto realizado durante a Gama XP 35
 
 <h1>Desktop:<h1>
