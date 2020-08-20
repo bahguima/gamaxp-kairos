@@ -6,6 +6,7 @@ height: 100vh;
 text-align: center;
 }
 
+
 .img-icon {
 margin-top: 10%;
 position: absolute;
@@ -25,15 +26,15 @@ top: -129px;
 
 .textoEbook {
 position: absolute;
-width: 216px;
+width: 416px;
 height: 87px;
-left: 56px;
+left: 46px;
 top: 289px;
 
 font-family: Roboto Condensed;
 font-style: normal;
 font-weight: bold;
-font-size: 30px;
+font-size: 40px;
 line-height: 35px;
 /* or 117% */
 
@@ -152,3 +153,11 @@ font-size: 24px;
 line-height: 35px;}
 }
 
+i{
+font-size: 400%;
+margin-right: 5%;
+align-content: left;
+margin-top: 30%;
+margin-bottom: 0%;
+color: rgb(255, 255, 255);
+}
